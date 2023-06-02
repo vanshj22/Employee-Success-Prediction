@@ -1,0 +1,12 @@
+numpy==1.23.5
+pandas==1.5.3
+ydata-profiling==4.1.2
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+plotly-express==0.4.1
+dtale==2.15.2
+klib==1.0.7
+seaborn==0.12.2
+joblib==1.1.1
+imbalanced-learn==0.10.1
+scikit-learn==1.2.2
